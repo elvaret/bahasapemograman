@@ -14,7 +14,7 @@ int Nilai_Angka;
 char Nilai_Huruf;
 
 void perbandingan(){
-     if ( Nilai_Angka >= 0 && Nilai_Angka <= 50){
+    if ( Nilai_Angka >= 0 && Nilai_Angka <= 50){
 	Nilai_Huruf ='E';
 	}else if (Nilai_Angka >= 51 && Nilai_Angka <= 60){
 		Nilai_Huruf ='D';
