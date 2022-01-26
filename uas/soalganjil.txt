@@ -1,0 +1,1 @@
+Buatlah program sederhana yang dimana menunya terdiri dari Create, Read, Ext. Untuk setiap proses create dan read berasal dari file txt dengan nama soalganjil.txt
